@@ -12,7 +12,7 @@ export GUI_STARTUP_SCRIPT=/opt/custompios/scripts/run_onepageos
 
 export RPI_IMAGER_NAME="${DIST_NAME}"
 export RPI_IMAGER_DESCRIPTION="A raspberrypi distro to display a full page browser on boot"
-export RPI_IMAGER_ICON="https://raw.githubusercontent.com/terminalMCU/WindOS-Pi/devel/media/windtermCursor.png"
+export RPI_IMAGER_ICON="https://raw.githubusercontent.com/terminalMCP/WindOS-Pi/devel/media/windtermCursor.png"
 
 #export USAGE_STATISTICS_URL=https://fullpageos-tracking.gnethomelinux.com
 
