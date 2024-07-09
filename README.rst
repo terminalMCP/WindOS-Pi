@@ -1,20 +1,26 @@
 WindOS-Pi
 ==========  
+.. raw:: html
 
-# FullPageOS (WindOS-Pi version)
+    <img src="https://raw.githubusercontent.com/terminalMCP/WindOS-Pi/devel/media/windtermCursor.png?raw=true" alt="WindOS logo" style="width: 10%;">
+
+FullPageOS (WindOS-Pi version)
 
 This is a fork from https://github.com/guysoft/FullPageOS.
 
 Original README file can be found [here](README.rst)
 
-## Proposed changes to the original version
-### Added
-- Added WindOS splash image
+Proposed changes to the original version:
+
+### Add
+- Add WindOS splash image
 - X11VNC server without password
-- HID Drivers for 5wire resistive and other touch display.
-### Updated
+- HID Drivers for 5-wire resistive and other touch display.
+
+### Update
 - Chromium to the latest version
-### Removed/Disabled
+
+### Remove/Disable
 - Camera driver
 - Usage statistics
 - FullPageOS Dashboard
