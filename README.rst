@@ -14,18 +14,19 @@ Proposed changes to the original version:
 
 ### Add
 - Add WindOS splash image
-- X11VNC server without password
+- Add WindOS HTML, CSS, and Java to /www/
 - HID Drivers for 5-wire resistive and other touch display.
 
 ### Update
 - Chromium to the latest version
+- Power profile and display sleep settings
 
 ### Remove/Disable
 - Camera driver
 - Usage statistics
 - FullPageOS Dashboard
 - FullPageOS Welcome page
-- LIGHTTPD service
+- Bluetooth driver
 
 A `Raspberry Pi <http://www.raspberrypi.org/>`_ distribution to display one webpage in full screen. It includes `Chromium <https://www.chromium.org/>`_ out of the box and the scripts necessary to load it at boot.
 This repository contains the source script to generate the distribution out of an existing `Raspbian <http://www.raspbian.org/>`_ distro image.
