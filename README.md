@@ -59,7 +59,7 @@ Our objective is to offer WindOS in a bootable instance and allow any historical
 
 Solar powered Raspberry Pi 4b+
 
-###Changes to the original FullPageOS version:
+### Changes to the original FullPageOS version:
 
 #### Add
 - Add WindOS splash image
