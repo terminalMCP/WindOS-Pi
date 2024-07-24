@@ -48,29 +48,29 @@ Initial deployment. We're re-using the legacy 5-wire resistive touch panel and L
 
 Hardware POC running on its own for 12 days with 30w solar+battery.
 
-<img style="justify-content: left;" src="https://windterminal.com/optical/p09r2.1.jpg" alt="WindOS">
-<img style="justify-content: right;"src="https://windterminal.com/optical/f56e3.1.jpg" alt="WindOS">
+<img style="justify-items: left;" src="https://windterminal.com/optical/p09r2.1.jpg" alt="WindOS">
+<img style="justify-items: right;"src="https://windterminal.com/optical/f56e3.1.jpg" alt="WindOS">
 
 
 ### EZLink Terminal 2 SN 0312696
 
 Our second terminal directive is to transplant the EZLink guts to utilize modern low power hardware encased in an easily reproduced and deployable 3dprint package.
 
-Raspi Zero W 2
-4:3 15" LCD Touch Panel - Low Power Consumption
-Peripheral Swap
+- Raspi Zero W 2
+- 4:3 15" LCD Touch Panel - Low Power Consumption
+- Peripheral Swap
 
 ### EZLink Terminal 3 SN 0312006
 
 Our earliest model by number, and the best candidate to run on OEM hardware.
 
-Gigabyte 8VM533M-RZ
-Pentium 4 Intel Celeron 1.7
-256MB RAM 
-40GB HDD 
-A bunch of sweet peripherals: 
-Thermal printer, CC Reader, Bill Collector, Webcam, 5-Wire Resistive Touch Display
-Payphone ShoreTel Hardware
+- Gigabyte 8VM533M-RZ
+- Pentium 4 Intel Celeron 1.7
+- 256MB RAM 
+- 40GB HDD 
+- A bunch of sweet peripherals: 
+- Thermal printer, CC Reader, Bill Collector, Webcam, 5-Wire Resistive Touch Display
+- Payphone ShoreTel Hardware
 
 Warranty Void stickers from 2003 intact across all components.
 
